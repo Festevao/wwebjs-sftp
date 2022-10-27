@@ -1,0 +1,1 @@
+export const SftpStore: typeof import("./src/SftpStore");
