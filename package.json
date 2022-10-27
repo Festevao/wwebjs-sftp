@@ -17,6 +17,6 @@
     "RemoteAuth",
     "ssh2-sftp-client"
   ],
-  "author": "Felipi Estevão",
+  "author": "festevao",
   "license": "ISC"
 }
