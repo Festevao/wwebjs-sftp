@@ -7,6 +7,7 @@ Use the SFTP protocol to keep your WhatsApp MultiDevice session on a SFTP server
 
 * [Guide / Getting Started](https://wwebjs.dev/guide/authentication.html) _(work in progress)_
 * [GitHub](https://github.com/Festevao/wwebjs-sftp)
+* [npm](https://www.npmjs.com/package/wwebjs-sftp)
 * [ssh2-sftp-client](https://www.npmjs.com/package/ssh2-sftp-client)
 
 ## Installation
