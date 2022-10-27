@@ -1,0 +1,22 @@
+{
+  "name": "wwebjs-sftp",
+  "version": "1.0.0",
+  "description": "A SFTP plugin for remote authentication on whatsapp-web.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Festevao/wwebjs-sftp.git"
+  },
+  "keywords": [
+    "wwebjs",
+    "sftp",
+    "whatsapp-web.js",
+    "RemoteAuth",
+    "ssh2-sftp-client"
+  ],
+  "author": "Felipi Estevão",
+  "license": "ISC"
+}
